@@ -2,7 +2,7 @@
 
 Gateway is [a board game](board.md) created together with my son Tim.
 
-![Gateway a board game](assets/gateway-bannner.jpg)
+![Gateway a board game](assets/gateway-banner.jpg)
 
 ## Background
 
