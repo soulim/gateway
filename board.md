@@ -13,6 +13,26 @@ All components of the game.
 
 Player characters.
 
+![Creature characters](assets/gateway-v2-003.jpg)
+
+Creature characters.
+
+![The portal](assets/gateway-v2-004.jpg)
+
+The portal.
+
+![Dice](assets/gateway-v2-005.jpg)
+
+D8 and D6 dice.
+
+![Score card and tokens](assets/gateway-v2-006.jpg)
+
+A score and tokens.
+
+![A game session](assets/gateway-v2-007.jpg)
+
+A game session :smile:
+
 ## Version 1 (prototype)
 
 A quick prototype took a couple hours to build, but it was wobbly and
@@ -25,5 +45,7 @@ therefore hard to play.
 Two parallel worlds.
 
 ![](assets/gateway-v1-003.jpg)
+
+![](assets/gateway-v1-004.jpg)
 
 It was designed to be foldable.
