@@ -21,7 +21,7 @@ Your mission is to find them and bring home.
 
 ## Components
 
-  - 2 game fields representing two worlds. Each field is 15x15 grid
+  - 2 game fields representing two worlds
   - 4 player characters
   - 6 creature characters
   - D8 and D6 dice
