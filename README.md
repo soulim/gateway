@@ -1,6 +1,6 @@
 # Gateway
 
-Gateway is a board game created together with my son Tim.
+Gateway is [a board game](board.md) created together with my son Tim.
 
 ## Background
 
@@ -21,7 +21,7 @@ Your mission is to find them and bring home.
 
 ## Components
 
-  - 2 game fields representing two worlds
+  - 2 game fields representing two worlds. Each field is 15x15 grid
   - 4 player characters
   - 6 creature characters
   - D8 and D6 dice
@@ -60,8 +60,9 @@ actions:
 
   - *Move on the board:* the player rolls the D6 dice and moves on the board
     to reach a creature or the portal. The player is allowed to travel as
-    many steps as a number showed by the D6. If the player reaches creatures,
-    they're allowed to immediately try to rescue that creature.
+    many steps as a number showed by the D6. Players can move in any direction,
+    but not diagonally. If the player reaches creatures, they're allowed to
+    immediately try to rescue that creature.
   - *Try to rescue a creature:* the player rolls both D8 and D6 dice. The D8
     shows the result of the rescue attempt:
       - 1 or 5 - the player travels together with the creature into
